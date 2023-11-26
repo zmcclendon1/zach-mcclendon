@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700068224 source:c:\users\zache\desktop\c programs\speed math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
